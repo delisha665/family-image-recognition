@@ -1,0 +1,17 @@
+#underline{
+    width:500px;
+    height:1px;
+background-color: black;
+}
+body {
+    background-color: #9DD9D2;
+}
+#list{
+    background-color: #F2FF49;
+    color:black;
+    border:10px #062C30 solid;
+    border-radius: 15px;
+    width:700px;
+    height:230px;
+    padding:30px;
+}
